@@ -1,0 +1,24 @@
+{
+    "name": "Lola Sands",
+    "website": "https://lolasands.github.io/",
+    "linkedin": "https://www.linkedin.com/in/lolasands/",
+    "github": "lolasands",
+    "email": "lola.sands@generalassemb.ly",
+    "resume": "https://lolasands.github.io/assets/Lola-Sands-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
